@@ -1,14 +1,14 @@
 # Sorting-Visualizer-using-ReactJs
 Sorting-Visualizer : Try at: https://crazydjp.github.io/Sorting-Visualizer/
+
 We can comprehend algorithms considerably better thanks to the idea of visualising them.
 
 We're using ReactJS to build this project. A few traditional sorting algorithms, including Bubble Sort, Selection Sort, and Insertion Sort, are visualised in it.
 
-Use this link to experiment: crazydjp.github.io/Sorting-Visualizer
-
 (NOTE: For a seamless transition effect, use hardware acceleration in Chrome.)
 
 Components
+
 There are four primary parts to it.
 
 Header: "Sorting Visualizer" is all that is animated in this component. Header
